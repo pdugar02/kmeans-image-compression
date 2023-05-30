@@ -1,5 +1,5 @@
 # kmeans-image-compression
-Uses k-means clustering to compress an image to reduce the size of image files.
+Write a k-means clustering algorithm from scratch to compress an image to reduce the size of image files.
 
 Originally completed April 2021 for the Artificial Intelligence course at Thomas Jefferson High School for Science and Technology.
 
